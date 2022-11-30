@@ -1,4 +1,4 @@
-# IMPORTANT 
+# Important
 This repository exists only to host the work I did for my first year master memoire. Please refer to the following repositories if you want to use the work presented here :
 
 - https://github.com/nyu-mll/crows-pairs (original CrowS-Pairs)
