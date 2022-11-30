@@ -1,8 +1,8 @@
 # IMPORTANT 
 This repository exists only to host the work I did for my first year master memoire. Please refer to the following repositories if you want to use the work presented here :
 
-- https://github.com/nyu-mll/crows-pairs (original CrowsPairs work)
-- https://gitlab.inria.fr/french-crows-pairs/acl-2022-paper-data-and-code (french CrowsPairs work)
+- https://github.com/nyu-mll/crows-pairs (original CrowsPairs)
+- https://gitlab.inria.fr/french-crows-pairs/acl-2022-paper-data-and-code (french CrowsPairs)
 
 # French CrowS-Pairs
 This is (**not**) the Github repo for French CrowS-Pairs, a challenge dataset for measuring the degree to which French stereotypical biases present in the masked language models (MLMs). This challenge dataset builds on the Crows-Pairs corpus (Nangia et al. 2020) as follows: 1/ it addresses issues reported by Blodgett et al. (2021) through a revision of the original content in English 2/ it provides a translation into French of revised Crows-Pairs content and 3/ it provides newly collected stereotypes in native French using the original collection methodology described by Nangia et al. (2020). 
